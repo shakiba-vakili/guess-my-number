@@ -1,6 +1,7 @@
 # guess-my-number
-guess my number!
-See [demo](https://shakiba-vakili.github.io/Responsive-Dashboard/)
+For this game, you have to guess between 1 and 20 numbers.
 
-<img src='img/01.png'>
-<img src='img/02.png'>
+See [demo](https://shakiba-vakili.github.io/guess-my-number/)
+
+<img src='01.png'>
+<img src='02.png'>
